@@ -27,3 +27,7 @@ For all version 0.x beta builds of WebReporter the database structure will remai
 Import the SQL file found here:
 
 https://github.com/bradyrussell/WebReporterPHP/blob/master/webreporter-v0.sql
+
+By saving it, then running in the console:
+mysql -u username -p < /path/to/webreporter-v0.sql
+

@@ -1,6 +1,6 @@
 # WebReporterPHP
 The web component of WebReporter
-
+Find the plugin component here: https://github.com/bradyrussell/WebReporterPlugin/
 
 Installation instructions:
 
